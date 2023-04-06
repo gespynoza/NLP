@@ -1,8 +1,7 @@
-# NLP
+# Natural Language Processing (NLP)
 
 En este notebook se mostrará cómo utilizar el modelo GPT-2 junto con TensorFlow para generar texto a partir de keywords, que en este caso serán "inteligencia" y "artificial"
 
-Contenido
 El notebook se divide en los siguientes apartados:
 
 Procesamiento de la noticia: se el extracto de una noticia sobre IA.
